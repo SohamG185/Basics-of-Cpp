@@ -1,4 +1,4 @@
-# Basic-c-
+# Basic C++
 This repositor contains a collection of basic c++ programming assignments completed as a part of my college coursework. 
 
 Program 1: Introduction Program
